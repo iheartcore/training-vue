@@ -1,0 +1,37 @@
+{
+  products: [
+        {
+          id: 1,
+          type: 'Socks',
+          brand: 'Vue Mastery',
+          selectedVariant: 0,
+          image: GreenSocks,
+          details: [
+            {id: 1, description: '50% cotton'},
+            {id: 2, description: '30% wool'},
+            {id: 3, description: '20% polyester'}
+          ],
+          variants: [
+            { id: 2234, color: 'green', image: GreenSocks, quantity: 50 },
+            { id: 2235, color: 'blue', image: BlueSocks, quantity: 0 },
+          ],
+          reviews: []
+        },
+        {
+          id: 2,
+          type: 'Shirt',
+          brand: 'Generic',
+          selectedVariant: 0,
+          image: RedShirt,
+          details: [
+            {id: 1, description: '90% cotton'},
+            {id: 2, description: '10% polyester'}
+          ],
+          variants: [
+            { id: 2330, color: 'red', image: RedShirt, quantity: 8 },
+            { id: 2331, color: 'blue', image: BlueShirt, quantity: 50}
+          ],
+          reviews: []
+        }
+      ]
+}
