@@ -15,7 +15,7 @@
             { "id": 2234, "color": "green", "image": "./assets/images/socks_green.jpg", "quantity": 50 },
             { "id": 2235, "color": "blue", "image": "./assets/images/socks_blue.jpg", "quantity": 0 },
           ],
-          "reviews": []
+          "reviews": [],
         },
         {
           "id": 2,
@@ -31,7 +31,7 @@
             { "id": 2330, "color": "red", "image": "./assets/images/shirt_red.jpeg", "quantity": 8 },
             { "id": 2331, "color": "blue", "image": "./assets/images/shirt_blue.jpg", "quantity": 50}
           ],
-          "reviews": []
+          "reviews": [],
         }
       ]
 }
