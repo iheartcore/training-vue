@@ -5,15 +5,15 @@
           "type": "Socks",
           "brand": "Vue Mastery",
           "selectedVariant": 0,
-          "image": "./assets/images/socks_green.jpg",
+          "image": "@/assets/images/socks_green.jpg",
           "details": [
             {"id": 1, "description": "50% cotton"},
             {"id": 2, "description": "30% wool"},
             {"id": 3, "description": "20% polyester"}
           ],
           "variants": [
-            { "id": 2234, "color": "green", "image": "./assets/images/socks_green.jpg", "quantity": 50 },
-            { "id": 2235, "color": "blue", "image": "./assets/images/socks_blue.jpg", "quantity": 0 }
+            { "id": 2234, "color": "green", "image": "@/assets/images/socks_green.jpg", "quantity": 50 },
+            { "id": 2235, "color": "blue", "image": "@/assets/images/socks_blue.jpg", "quantity": 0 }
           ],
           "reviews": [
             {"id": 1, "name": "Mary Smith", "review": "Love these!", "rating": 4, "recommend": "Yes"}
@@ -24,14 +24,14 @@
           "type": "Shirt",
           "brand": "Generic",
           "selectedVariant": 0,
-          "image": "./assets/images/socks_green.jpg",
+          "image": "@/assets/images/socks_green.jpg",
           "details": [
             {"id": 1, "description": "90% cotton"},
             {"id": 2, "description": "10% polyester"}
           ],
           "variants": [
-            { "id": 2330, "color": "red", "image": "./assets/images/shirt_red.jpeg", "quantity": 8 },
-            { "id": 2331, "color": "blue", "image": "./assets/images/shirt_blue.jpg", "quantity": 50}
+            { "id": 2330, "color": "red", "image": "@/assets/images/shirt_red.jpeg", "quantity": 8 },
+            { "id": 2331, "color": "blue", "image": "@/assets/images/shirt_blue.jpg", "quantity": 50}
           ],
           "reviews": [
             {"id": 1, "name": "Tony Smith", "review": "Not the best!", "rating": 2, "recommend": "No"}]
