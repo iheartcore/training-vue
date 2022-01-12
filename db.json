@@ -2,8 +2,8 @@
   "products": [
         {
           "id": 1,
-          "type": 'Socks',
-          "brand": 'Vue Mastery',
+          "type": "Socks",
+          "brand": "Vue Mastery",
           "selectedVariant": 0,
           "image": "./assets/images/socks_green.jpg",
           "details": [
@@ -12,24 +12,24 @@
             {"id": 3, "description": '20% polyester'}
           ],
           "variants": [
-            { "id": 2234, "color": 'green', "image": "./assets/images/socks_green.jpg", "quantity": 50 },
-            { "id": 2235, "color": 'blue', "image": "./assets/images/socks_blue.jpg", "quantity": 0 },
+            { "id": 2234, "color": "green", "image": "./assets/images/socks_green.jpg", "quantity": 50 },
+            { "id": 2235, "color": "blue", "image": "./assets/images/socks_blue.jpg", "quantity": 0 },
           ],
           "reviews": []
         },
         {
           "id": 2,
-          type": 'Shirt',
-          "brand": 'Generic',
+          type": "Shirt",
+          "brand": "Generic",
           "selectedVariant": 0,
           "image": "./assets/images/socks_green.jpg",
           "details": [
-            {"id": 1, "description": '90% cotton'},
-            {"id": 2, "description": '10% polyester'}
+            {"id": 1, "description": "90% cotton"},
+            {"id": 2, "description": "10% polyester"}
           ],
           "variants": [
-            { "id": 2330, "color": 'red', "image": "./assets/images/shirt_red.jpeg", "quantity": 8 },
-            { "id": 2331, "color": 'blue', "image": "./assets/images/shirt_blue.jpg", "quantity": 50}
+            { "id": 2330, "color": "red", "image": "./assets/images/shirt_red.jpeg", "quantity": 8 },
+            { "id": 2331, "color": "blue", "image": "./assets/images/shirt_blue.jpg", "quantity": 50}
           ],
           "reviews": []
         }
