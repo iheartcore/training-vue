@@ -7,9 +7,9 @@
           "selectedVariant": 0,
           "image": "./assets/images/socks_green.jpg",
           "details": [
-            {"id": 1, "description": '50% cotton'},
-            {"id": 2, "description": '30% wool'},
-            {"id": 3, "description": '20% polyester'}
+            {"id": 1, "description": "50% cotton"},
+            {"id": 2, "description": "30% wool"},
+            {"id": 3, "description": "20% polyester"}
           ],
           "variants": [
             { "id": 2234, "color": "green", "image": "./assets/images/socks_green.jpg", "quantity": 50 },
@@ -19,7 +19,7 @@
         },
         {
           "id": 2,
-          type": "Shirt",
+          "type": "Shirt",
           "brand": "Generic",
           "selectedVariant": 0,
           "image": "./assets/images/socks_green.jpg",
