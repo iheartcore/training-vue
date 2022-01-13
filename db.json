@@ -53,13 +53,13 @@
         }
       ],
   "variants":[
-      { "id": 2234, "color": "green", "image": "socks_green.jpg", "quantity": 50, "price": 8, "productid": 1 },
-      { "id": 2235, "color": "blue", "image": "socks_blue.jpg", "quantity": 0, "price": 8, "productid": 1 },
-      { "id": 2330, "color": "red", "image": "shirt_red.jpeg", "quantity": 8, "price": 15, "productid": 2  },
-      { "id": 2331, "color": "blue", "image": "shirt_blue.jpg", "quantity": 50, "price": 15, "productid": 2 },
-      { "id": 2430, "color": "black", "image": "black_cap.jpg", "quantity": 8, "price": 10, "productid": 3  },
-      { "id": 2431, "color": "red", "image": "red_cap.jpg", "quantity": 25, "price": 10, "productid": 3 },
-      { "id": 2432, "color": "blue", "image": "blue_cap.jpg", "quantity": 25, "price": 10, "productid": 3 },
-      { "id": 2433, "color": "green", "image": "green_cap.jpg", "quantity": 10, "price": 10, "productid": 3 }
+      { "id": 2234, "color": "green", "image": "socks_green.jpg", "quantity": 50, "price": 8, "productid": 1, "amount": 0 },
+      { "id": 2235, "color": "blue", "image": "socks_blue.jpg", "quantity": 0, "price": 8, "productid": 1, "amount": 0 },
+      { "id": 2330, "color": "red", "image": "shirt_red.jpeg", "quantity": 8, "price": 15, "productid": 2, "amount": 0  },
+      { "id": 2331, "color": "blue", "image": "shirt_blue.jpg", "quantity": 50, "price": 15, "productid": 2, "amount": 0 },
+      { "id": 2430, "color": "black", "image": "black_cap.jpg", "quantity": 8, "price": 10, "productid": 3, "amount": 0  },
+      { "id": 2431, "color": "red", "image": "red_cap.jpg", "quantity": 25, "price": 10, "productid": 3, "amount": 0 },
+      { "id": 2432, "color": "blue", "image": "blue_cap.jpg", "quantity": 25, "price": 10, "productid": 3, "amount": 0 },
+      { "id": 2433, "color": "green", "image": "green_cap.jpg", "quantity": 10, "price": 10, "productid": 3, "amount": 0 }
   ]
 }
