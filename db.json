@@ -63,7 +63,11 @@
       { "id": 2433, "color": "green", "image": "green_cap.jpg", "quantity": 10, "price": 10, "productid": 3, "amount": 1, "title": "Baseball Cap" }
   ],
   "users":[
-    { "id": 1, "username": "test", "password": "test123", "name": "Yo-Tina", "surname": "Verbraecken", "premium": false },
-    { "id": 2, "username": "test1", "password": "test123", "name": "Senne", "surname": "Staelens", "premium": true }
+    { "id": 1, "username": "test", "password": "test123", "name": "Yo-Tina", "surname": "Verbraecken", "premium": false, "facturationSame": true, "paymentOption": "DebitCard" },
+    { "id": 2, "username": "test1", "password": "test123", "name": "Senne", "surname": "Staelens", "premium": true, "facturationSame": true, "paymentOption": "CreditCard" }
+  ],
+  "addresses": [
+    { "id": 1, "userid": 1, "street": "Torhoutse Steenweg", "housenumber": "123", "box": "7", "postalCode": "8200", "city": "Sint-Andries", "country": "België", "extraInfo": "", "phone": "04123456789" },
+    { "id": 2, "userid": 2, "street": "Ketsbruggestraat", "housenumber": "17", "box": "", "postalCode": "8000", "city": "Brugge", "country": "België", "extraInfo": "", "phone": "0499123456" }
   ]
 }
