@@ -69,5 +69,10 @@
   "addresses": [
     { "id": 1, "type": 1, "userid": 1, "street": "Torhoutse Steenweg", "housenumber": "123", "box": "7", "postalCode": "8200", "city": "Sint-Andries", "country": "België", "extraInfo": "", "phone": "04123456789" },
     { "id": 2, "type": 1, "userid": 2, "street": "Ketsbruggestraat", "housenumber": "17", "box": "", "postalCode": "8000", "city": "Brugge", "country": "België", "extraInfo": "", "phone": "0499123456" }
+  ],
+  "coupons": [
+    { "id": 1, "text": "freeshipping", "value": 2.99 },
+    { "id": 2, "text": "5off", "value": 5 },
+    { "id": 3, "text": "10off", "value": 10 }
   ]
 }
