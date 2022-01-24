@@ -67,7 +67,7 @@
     { "id": 2, "username": "test1", "password": "test123", "name": "Senne", "surname": "Staelens", "premium": true, "facturationSame": true, "paymentOption": "CreditCard", "deliveryOption": "Home" }
   ],
   "addresses": [
-    { "id": 1, "userid": 1, "street": "Torhoutse Steenweg", "housenumber": "123", "box": "7", "postalCode": "8200", "city": "Sint-Andries", "country": "België", "extraInfo": "", "phone": "04123456789" },
-    { "id": 2, "userid": 2, "street": "Ketsbruggestraat", "housenumber": "17", "box": "", "postalCode": "8000", "city": "Brugge", "country": "België", "extraInfo": "", "phone": "0499123456" }
+    { "id": 1, "type": 1, "userid": 1, "street": "Torhoutse Steenweg", "housenumber": "123", "box": "7", "postalCode": "8200", "city": "Sint-Andries", "country": "België", "extraInfo": "", "phone": "04123456789" },
+    { "id": 2, "type": 1, "userid": 2, "street": "Ketsbruggestraat", "housenumber": "17", "box": "", "postalCode": "8000", "city": "Brugge", "country": "België", "extraInfo": "", "phone": "0499123456" }
   ]
 }
